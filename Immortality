@@ -1,0 +1,8 @@
+#Copy the line below and paste it into the console and hit 'enter' after every paste. This line saves the death function.
+var gameend = Runner.prototype.gameOver
+
+#Copy the line below. This line sets the gameOver funtion to nothing, essentially removing it.
+Runner.prototype.gameOver = function(){}
+
+#Copy the line below. If you want to reset it, this line will reset the gameOver function. This will only work if you have run line 2 beforehand.
+Runner.prototype.gameOver = gameend
