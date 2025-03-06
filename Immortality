@@ -1,4 +1,4 @@
-#Copy the line below and paste it into the console and hit 'enter' after every paste. This line saves the death function.
+#Copy the line below and paste it into the console and hit 'enter' after every paste. This line saves the death function. This is optional.
 var gameend = Runner.prototype.gameOver
 
 #Copy the line below. This line sets the gameOver funtion to nothing, essentially removing it.
