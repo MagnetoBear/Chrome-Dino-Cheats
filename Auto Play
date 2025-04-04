@@ -1,4 +1,4 @@
-#Copy the whole code below and paste it into the console.
+<!-- Copy the whole code below and paste it into the console. -->
 function dispatchKey(type, key) {
     document.dispatchEvent(new KeyboardEvent(type, {keyCode: key}));
 }
