@@ -1,2 +1,2 @@
-<!-- Copy and paste the line below into the console and hit enter. You can set your speed to whatever you want by changing the number. The original speed is '10' -->
+// Copy and paste the line below into the console and hit enter. You can set your speed to whatever you want by changing the number. The original speed is '10'
 Runner.instance_.setSpeed(10)
